@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Classe_JavaLivro.iml" filepath="$PROJECT_DIR$/Classe_JavaLivro.iml" />
+    </modules>
+  </component>
+  <!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
+  <dependencies>
+  <dependency>
+    <groupId>mysql</groupId>
+    <artifactId>mysql-connector-java</artifactId>
+    <version>8.0.33</version>
+  </dependency>
+</dependencies>
+</project>
